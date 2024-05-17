@@ -19,7 +19,7 @@ For example, if you are using pdflatex, you would run the following command in y
 pdflatex main.tex
 ```
 
-This will generate a file named `main.pdf`, which contains the final formatted document.
+This will generate a `main.pdf` file containing the final formatted document.
 
 ## Dependencies
 
