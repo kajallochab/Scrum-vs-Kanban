@@ -9,7 +9,7 @@ To compile the LaTeX files and generate the PDF document, you will need a LaTeX 
 
 - Overleaf: A free online LaTeX editor and compiler (https://www.overleaf.com/)
 - TeX Live: A comprehensive TeX distribution for various operating systems (https://www.tug.org/texlive/portable.html)
--  MikTeX: A popular TeX distribution for Windows (https://miktex.org/)
+-  MikTeX: A widespread TeX distribution for Windows (https://miktex.org/)
 
 Once you have a LaTeX compiler installed, you can navigate to the directory containing the source files and compile the document using the appropriate command for your chosen compiler.
 
@@ -19,7 +19,7 @@ For example, if you are using pdflatex, you would run the following command in y
 pdflatex main.tex
 ```
 
-This will generate a file named `main.pdf` which contains the final formatted document.
+This will generate a file named `main.pdf`, which contains the final formatted document.
 
 ## Dependencies
 
@@ -31,7 +31,7 @@ This document relies on the following LaTeX packages:
 - hyperref: for adding hyperlinks (optional)
 - ieeetr: bibliography style for IEEE referencing (you may need to install this package separately)
 
-Make sure these packages are installed on your system for the document to compile successfully.
+Ensure these packages are installed on your system so the document can be compiled successfully.
 
 ## License
 
